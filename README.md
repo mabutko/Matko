@@ -2,5 +2,4 @@ My name is Matko, I´m a software and a computer engineer. I finished two Master
 
 Contact mail:
 mbutkovic9@gmail.com
-
 matko.butkovic@abo.fi
